@@ -1,7 +1,7 @@
 <h1>Olá!! Sou a Luiza Fioravante</h1>
 
 <div>
-  🎓 Estudante de Ciência da Computação (5º semestre)  
+  🎓 Estudante de Ciência da Computação (7º semestre)  
   
   🧠 Estudando computação gráfica  
   🚀 Interesse em Desenvolvimento de jogos e sistemas  
